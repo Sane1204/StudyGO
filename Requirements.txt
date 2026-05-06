@@ -1,0 +1,25 @@
+# StudyGo - RAG-based Study Assistant
+# Install with: pip install -r requirements.txt
+ 
+# Core LlamaIndex
+llama-index-core
+llama-index-llms-ollama
+llama-index-embeddings-ollama
+llama-index-readers-file
+llama-index-retrievers-bm25
+ 
+# Evaluation - RAGAS
+ragas
+datasets
+ 
+# Evaluation - Generation Metrics
+rouge-score
+bert-score
+nltk
+ 
+# LLM / API
+langchain-openai
+openai
+ 
+# Data
+pandas

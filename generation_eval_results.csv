@@ -1,0 +1,217 @@
+rouge1,rougeL,bleu,user_input,response,reference,bertscore_f1
+0.19622641509433963,0.14339622641509434,0.004522152534152924,What happens if an AI model is trained on poor-quality data and how can this be mitigated?,"**Direct Answer:**
+If an AI model is trained on poor-quality data, it may produce inaccurate or misleading results. This phenomenon is referred to as ""garbage in equals garbage out"" (Source: ai_intro.pdf, Page: 2).
+
+**Explanation:**
+The quality of the training data has a significant impact on the performance and reliability of AI models. Poor-quality data can lead to hallucinations, where the AI model presents false information as fact. This is because AI models are only as good as the data they are trained on.
+
+**Mitigation Strategies:**
+
+* **Data Governance:** Implementing data governance practices, such as standardizing data, removing duplicates, and searching for errors, can help ensure that the training data is accurate and reliable (Source: ai_intro.pdf, Page: 2).
+* **Cleaning Data:** Cleaning the data by removing erroneous information and verifying its accuracy can reduce computing time and improve the overall performance of the AI model.
+* **Synthetic Data:** Using synthetic data to train AI models can also help mitigate the impact of poor-quality training data. Synthetic data is generated artificially, which can help ensure that it is accurate and reliable.
+
+**Example:**
+In the context of AI development, poor-quality training data can lead to inaccurate or misleading results. For instance, if an AI model is trained on a dataset containing false relationships, it may learn to recognize those relationships as true, leading to hallucinations and the presentation of false information as fact.","Poor-quality data leads to inaccurate outputs and hallucinations due to false relationships, and this can be mitigated through data governance practices such as cleaning, standardizing, and removing erroneous data.",0.6776338815689087
+0.2380952380952381,0.20634920634920634,0.006233424364704018,Explain how tokenization enables AI systems to process language and why it is necessary.,"**Direct Answer:**
+Tokenization is the process of converting language into numeric data that can be processed by a computer. This is necessary because computers do not process text, they only process numbers.
+
+**Explanation:**
+According to the context, tokenization rules were developed in the 1960s to enable computers to process words. Each alphabetic character or part of a word is assigned a unique numeric identification. This allows AI systems to process language by converting it into a format that can be understood by computers.
+
+**Example (from context):**
+The process associated with converting language into numeric data that can then be processed by a computer is called “tokenization”.","Tokenization converts text into numerical representations because computers can only process numbers, allowing AI models to analyze and understand language.",0.706444263458252
+0.13,0.09999999999999999,0.0038324013275839734,Why does the document suggest that AI hallucinations are a major limitation of current models?,"**Direct Answer:**
+The document suggests that AI hallucinations are a major limitation of current models because ""garbage in equals garbage out"" and the quality of training data is important. If the training data has false relationships, it enables AI models to experience hallucinations, resulting in false information being presented as fact.
+
+**Explanation:**
+According to the context, the issue of ""garbage in equals garbage out"" creates an important limitation impacting the usefulness of AI models. This means that if the training data is inaccurate or contains false information, the AI model will also produce inaccurate results. The document highlights the importance of data governance and cleaning data to avoid this problem.
+
+**Example:**
+The context provides an example of how ""garbage in equals garbage out"" can lead to AI hallucinations. It mentions that companies like Meta have perfected the art of creating echo chambers, which provide users with content verification dopamine. This can result in false information being presented as fact, highlighting the importance of high-quality training data for AI models.
+
+**Source:**
+[Source: ai_intro.pdf, Page: 2, Document_type: notes]","Hallucinations occur due to incorrect or misleading training data, causing AI to present false information as fact, which reduces reliability.",0.6636607050895691
+0.1830065359477124,0.1568627450980392,0.009043726998230129,How does data governance improve both performance and efficiency of AI systems?,"**Direct Answer:**
+Data governance improves the performance and efficiency of AI systems by standardizing data, removing duplicate data, searching for the source of errors, and removing erroneous information. This process reduces computing time and increases the accuracy of AI models while reducing the frequency of AI model hallucinations.
+
+**Explanation:**
+
+According to the provided context, data governance is a crucial step in ensuring the effectiveness of AI models. By standardizing data, removing duplicate data, and searching for errors, data governance specialists can reduce the likelihood of AI model hallucinations (Source: ai_intro.pdf, Page 2). This process also improves the accuracy of AI models, which in turn reduces computing time.
+
+**Example:** The context does not provide a specific example, but it highlights the importance of data governance in ensuring the performance and efficiency of AI systems.",Data governance improves performance by increasing accuracy and reduces efficiency costs by lowering computation time through cleaner data.,0.6871400475502014
+0.358974358974359,0.25641025641025644,0.023740202623542844,What is the relationship between semiconductor advancements and AI capabilities?,"**Direct Answer:**
+Semiconductor advancements enable complex simultaneous calculations, making it possible for AI to rely on them.
+
+**Explanation:**
+According to [Source: ai_intro.pdf, Page: 2], the calculator engines for AI work are semiconductors. New advances in semiconductor design and processing make complex calculations possible, which is crucial for AI's functioning.
+
+**Example:** None provided in this context.","Advances in semiconductor design enable faster and more complex calculations, which are essential for processing large datasets in AI systems.",0.7196911573410034
+0.22535211267605634,0.1549295774647887,0.007024818011788094,Why is Artificial General Intelligence (AGI) considered a goal rather than a current reality?,"**Direct Answer:**
+Artificial General Intelligence (AGI) is considered a goal rather than a current reality because the massive capital expenditures by AI model developers aim to match or exceed human cognitive capabilities across virtually any task.
+
+**Explanation:**
+The context states that the goal of the massive capital expenditures by AI model developers is Artificial General Intelligence (AGI), where an AI model matches or exceeds human cognitive capabilities across virtually any task. This suggests that AGI is a desired outcome, but not yet achieved.
+
+**Example:** None provided in the context.
+
+**Reference:**
+[Source: ai_intro.pdf, Page: 2, Document_type: notes]
+
+Note: The answer is based solely on the provided context and does not invent or extrapolate any information.",AGI is still a goal because current AI systems are limited to specific tasks and do not yet match human-level intelligence across all domains.,0.6716415882110596
+0.15200000000000002,0.10400000000000001,0.008362224714699351,Explain how AI development creates both economic opportunities and risks.,"**Direct Answer:**
+AI development creates both economic opportunities and risks.
+
+**Explanation:**
+
+According to the context, AI development has significant implications for job growth and retirement contributions, which in turn can impact financial markets. The potential for AI models in various industries, such as aerospace and pharmaceuticals, offers promising opportunities for productivity gains and investment returns (Source: ai_intro.pdf, Page 5).
+
+However, the rapid pace of AI development also creates risks. The lack of regulatory structure and security vulnerabilities in AI programs being rushed to market can lead to exploitation by bad actors, creating a new level of AI-enabled criminal activity (Source: ai_intro.pdf, Page 3). Additionally, the potential loss of Taiwan's independence, which produces over 90% of the world's high-end AI chips, poses a significant geopolitical threat to AI development (Sources: ai_intro.pdf, Pages 3 and 5).
+
+**Example:**
+The context highlights the importance of considering both economic opportunities and risks in AI development. For instance, while AI models can help design new aerospace structures or analyze proteins for drug discovery, they also require significant investment and may not always yield returns. Similarly, the potential for AI agents to carry out tasks on behalf of users (e.g., booking travel) offers real benefits but also creates opportunities for exploitation.
+
+**Citation:**
+Sources:
+ai_intro.pdf, Page 3
+ai_intro.pdf, Page 5","AI creates opportunities through productivity gains and innovation but also introduces risks such as job loss, security vulnerabilities, and misuse by bad actors.",0.6643650531768799
+0.15873015873015872,0.1375661375661376,0.009424267107468647,How could synthetic data both help and potentially limit AI development?,"**Direct Answer:**
+Synthetic data can both help and potentially limit AI development.
+
+**Explanation:**
+
+* **Help:** Synthetic data can train AI model weights assigned to data, allowing for more efficient training and potentially leading to better performance. As the data sets grow, there is a natural convergence in responses provided by the AI models.
+* **Limit:** The use of synthetic data may lead to limitations in AI development. For instance, relying solely on synthetic data might not provide the same level of accuracy as using real-world data. Additionally, the potential for security vulnerabilities and exploitation by bad actors could hinder the development of AI programs.
+
+**Example:**
+The context mentions that a specific goal of using synthetic data is to train AI model weights assigned to data. This highlights the potential benefits of synthetic data in improving AI performance. However, it also raises concerns about the limitations of relying solely on synthetic data, which could potentially limit AI development.
+
+**Citation:** [Source: ai_intro.pdf, Page: 3-5, Document_type: notes]",Synthetic data helps train models when real data is limited but may lead to less diversity and convergence in outputs if overused.,0.6462407112121582
+0.1732283464566929,0.14173228346456693,0.025454980318328303,Why might increasing numbers of AI models lead to similar outputs across systems?,"**Direct Answer:**
+As the data sets grow, there is a natural convergence in responses provided by the AI models.
+
+**Explanation:**
+According to the context, as more AI models are trained on larger datasets, they tend to converge towards similar outputs. This is because the training process helps refine the model's weights and biases, leading to more consistent and accurate predictions.
+
+**Example (from context):**
+As mentioned in the notes, ""A specific goal of using synthetic data is to train the AI model weights assigned to data."" This implies that as more data is used to train AI models, they will naturally converge towards similar outputs.
+
+**Source:** ai_intro.pdf, Page: 3","As models are trained on similar large datasets, their learned patterns converge, resulting in similar responses.",0.6962491869926453
+0.25641025641025644,0.17094017094017094,0.015582913486036095,Explain the potential geopolitical risks associated with AI chip production.,"**Direct Answer:**
+The biggest geopolitical threat to AI is the loss of Taiwan's independence, which produces over 90% of the world's high-end AI chips.
+
+**Explanation:**
+According to the provided context, Taiwan produces over 90% of the world's high-end AI chips. This makes it a critical dependency for the U.S., as mentioned in the notes on page 3. The potential loss of Taiwan's independence poses a significant geopolitical risk to AI chip production and, by extension, the development and deployment of AI models.
+
+**Example:**
+None provided in this context.",Global dependence on Taiwan for over 90% of high-end AI chips creates risks if supply is disrupted due to geopolitical conflicts.,0.6961967945098877
+0.13986013986013984,0.13986013986013984,0.012104516546682929,How is AI impacting entry-level versus senior-level jobs differently?,"**Direct Answer:**
+AI is impacting white-collar entry-level jobs and internships more significantly than mid-level and senior jobs.
+
+**Explanation:**
+According to the provided context, university students who recently graduated are finding it harder to get a job as AI impacts the number of white-collar entry-level jobs and internships. This suggests that AI is having a greater impact on entry-level positions. In contrast, mid-level and senior jobs have not been impacted significantly.
+
+**Example:**
+The context does not provide specific examples of how AI is impacting different levels of jobs. However, it highlights the challenges faced by recent graduates in finding entry-level job opportunities due to AI's influence.
+
+**Source:** [Source: ai_intro.pdf, Page: 3, Document_type: notes]","AI is reducing entry-level jobs and internships, while senior roles remain less affected due to higher expertise requirements.",0.6915507316589355
+0.09696969696969696,0.09696969696969696,0.007272967710473333,Why does the document suggest that AI-generated content can reduce productivity?,"**Direct Answer:** The document suggests that AI-generated content can reduce productivity because of ""AI slop"" - AI models generating smart-sounding content that says nothing, leading to unproductive use.
+
+**Explanation:**
+
+According to the notes on Page 3 (Source: ai_intro.pdf), AI models have mastered the art of generating smart-sounding content that really says nothing. This type of content is referred to as ""AI slop."" The document suggests that users are dropping emails in AI models, and the AI model-generated multi-paragraph response often fails to say anything substantive.
+
+**Example:** Two frequent user answers in AI use studies indicate that laziness or a lack of confidence are key AI use drivers. This implies that AI-generated content can lead to unproductive use, as users may rely too heavily on AI models rather than engaging in critical thinking and creative problem-solving.
+
+**Source:** ai_intro.pdf, Page 3","AI-generated content can appear useful but often lacks substance, requiring additional human review and editing.",0.6330676674842834
+0.09722222222222222,0.08333333333333334,0.002118927073707725,What role do humans play in ensuring the reliability of AI outputs?,"**Direct Answer:**
+Humans play a crucial role in ensuring the reliability of AI outputs through data governance, which involves standardizing data, removing duplicate data, searching for errors, and verifying information.
+
+**Explanation:**
+According to the context, data governance is a rapidly expanding field that focuses on cleaning data to reduce computing time, improve accuracy, and minimize hallucinations. This process ensures that AI models produce reliable outputs. Humans are responsible for reviewing and verifying data to increase the usefulness of AI models (Source: ai_intro.pdf, Page 2).
+
+**Example:**
+The context highlights the importance of data governance in ensuring the reliability of AI outputs. For instance, information technology companies are starting to tie performance bonuses to data cleanliness, emphasizing the significance of human involvement in this process.
+
+Citation:
+ai_intro.pdf, Page 2","Humans verify information, apply critical reasoning, and distinguish between accurate outputs and hallucinations.",0.6572380065917969
+0.10309278350515465,0.09278350515463918,0.0016420166557830098,How are educational institutions adapting to the rise of AI tools?,"**Direct Answer:**
+Educational institutions are adapting to the rise of AI tools by teaching critical reasoning and assigning in-class assignments and writing exercises where AI models cannot be used, so teachers can more accurately assess student mastery of the subject material. Tests are increasingly shifting back to Blue Book Examination Books.
+
+**Explanation:**
+According to the provided context, educational institutions are recognizing the importance of teaching students how to critically evaluate information produced by AI models. This is particularly challenging for students who lack subject matter expertise and may struggle to identify false information or hallucinations. To address this issue, teachers are assigning more in-class assignments and writing exercises that require human judgment and critical thinking.
+
+**Example:**
+The context mentions that teachers at the high school and university level are seeking to teach critical reasoning, which is a key life skill. This highlights the importance of adapting educational institutions to the rise of AI tools and ensuring students develop the skills necessary to navigate an increasingly AI-driven world.
+
+**Source:** ai_intro.pdf, Page: 4",They are increasing in-class assessments and written exams to ensure students demonstrate independent thinking without AI assistance.,0.6642768383026123
+0.1282051282051282,0.1282051282051282,0.004953453280849125,Explain why AI models require large-scale computational power.,"**Direct Answer:**
+AI models require large-scale computational power because they process and analyze vast amounts of data, which demands significant computing resources.
+
+**Explanation:**
+According to the context, computers do not process text; instead, they process numbers. Each alphabetic character or part of a word is assigned a unique numeric identification through tokenization (Source: ai_intro.pdf, Page: 2). This process enables computers to analyze and understand language. However, processing large amounts of data requires significant computational power.
+
+**Example:**
+The context mentions that Open AI has made over $1.5 trillion in contract commitments during 2025, which suggests the scale of data required for AI models (Source: ai_intro.pdf, Page: 4). This massive amount of data necessitates powerful computing resources to process and analyze it efficiently.
+
+**Citation:** None needed, as this answer is based on the provided context.","AI models process vast datasets and calculate complex probabilities, requiring significant computational resources provided by specialized hardware.",0.6484982371330261
+0.06329113924050632,0.0379746835443038,0.0019881146962454337,Why is monetization a challenge for AI companies despite high user numbers?,"**Direct Answer:**
+Monetization is a challenge for AI companies, such as Open AI, due to non-work usage (approximately 70% of ChatGPT's use) and users outside the U.S. with less disposable income.
+
+**Explanation:**
+
+According to the context, Open AI reported that approximately 70% of ChatGPT's use is non-work-related, making it challenging to monetize these users. Additionally, having 81% of ChatGPT's users outside the U.S. also poses a challenge in terms of monetization, as these users may have less disposable income.
+
+**Example:**
+To illustrate this point, the context mentions that Open AI would need 1.3 billion users paying $95 a month to break even on their commitments associated with ChatGPT, which is a far cry from the 40 million users paying $20 a month in October.
+
+**Source:** ai_intro.pdf, Page: 4","Many users do not pay for services, especially in emerging markets, while operational and infrastructure costs remain extremely high.",0.6089483499526978
+0.041237113402061855,0.034364261168384876,0.0009366438220772437,What risks are associated with rapid deployment of AI systems without regulation?,"**Direct Answer:**
+The provided context does not explicitly mention the specific risks associated with the rapid deployment of AI systems without regulation. However, it highlights some potential concerns:
+
+* **Circular financing red flags**: The investment of $100 billion in Open AI by Nvidia raises questions about circular financing and potential financial risks.
+* **AI computation rationing and blackouts**: The power needs of data centers are stressing U.S. power generation capacity, electricity grids, and local water supplies, which could lead to AI computation rationing and blackouts if not addressed.
+* **National efforts and dependencies**: China's commitment to national AI development and Taiwan's production of high-end AI chips create potential risks for access to AI chips and IT systems.
+
+**Explanation:**
+The rapid deployment of AI systems without regulation can lead to unforeseen consequences. The provided context highlights some of these concerns:
+
+* **Financial risks**: Circular financing red flags, such as Nvidia's investment in Open AI, raise questions about the sustainability of such investments.
+* **Infrastructure strain**: The power needs of data centers are already stressing U.S. infrastructure, which could lead to AI computation rationing and blackouts if not addressed.
+* **National security concerns**: China's commitment to national AI development and Taiwan's production of high-end AI chips create potential risks for access to AI chips and IT systems.
+
+**Example:**
+The context does not provide a specific example of the risks associated with rapid deployment of AI systems without regulation. However, it highlights the importance of considering these risks in the development and implementation of AI systems.
+
+**References:**
+
+* Financial Times - October 2025
+* protecto.ai/blog/ai-tokenization-understanding-importance-and-applications
+* IBM - What is a transformer model","Risks include security vulnerabilities, misuse by malicious actors, and lack of safeguards against harmful applications.",0.5859230160713196
+0.16981132075471697,0.11320754716981131,0.003293966088254282,How does AI contribute to new forms of cyber threats?,"**Direct Answer:**
+AI programs being rushed to market without proper security testing and regulatory structure create new levels of AI-enabled criminal activity.
+
+**Explanation:**
+
+According to the context, there is a current rush item in creating AI agents that carry out tasks on behalf of users (e.g., booking travel). However, this rapid development also leads to security vulnerabilities in AI programs. Bad actors are actively using these AI programs to exploit security vulnerabilities and create new levels of AI-enabled criminal activity.
+
+**Example:**
+None provided in the context.","AI enables automated hacking and exploitation of system vulnerabilities, increasing the scale and sophistication of cyber attacks.",0.653568685054779
+0.10050251256281408,0.08040201005025127,0.0031011130693921443,What is the impact of AI slop on communication and decision-making?,"**Direct Answer:**
+The context does not explicitly mention ""AI slop"" or its impact on communication and decision-making.
+
+**Explanation:**
+However, we can infer that the concept of AI slop might be related to the increasing use of AI models in decision-making processes. The notes mention Open AI's ChatGPT being used as a decision therapist, which suggests that AI is being utilized to assist humans in making decisions.
+
+**Example (Not Present in Context):**
+To illustrate this point, let's consider an example where AI slop might impact communication and decision-making. Imagine a company using AI-powered chatbots to handle customer inquiries. If the chatbot provides inaccurate or incomplete information, it could lead to miscommunication and poor decision-making by customers. This highlights the importance of ensuring that AI systems are properly trained and integrated into human workflows.
+
+**Note:**
+This answer is based on the provided context, which does not explicitly mention ""AI slop."" The explanation and example are attempts to provide a possible connection between AI and communication/decision-making, but it is not directly supported by the given material.","AI slop leads to verbose but meaningless content, which can reduce clarity and hinder effective decision-making.",0.6474718451499939
+0.24096385542168675,0.24096385542168675,0.011024183106057685,What specific algorithm or model architecture is described as the core of modern AI systems?,"**Direct Answer:** None
+
+**Explanation:** The provided context does not describe a specific algorithm or model architecture as the core of modern AI systems. Instead, it discusses various aspects of AI, such as tokenization, data governance, and limitations.
+
+**Example:** Not applicable, as there is no description of a specific algorithm or model architecture in the provided context.
+
+This information is not available in the provided material.","The document does not specify a particular algorithm or architecture, making this unanswerable based on the provided text.",0.6971372365951538
